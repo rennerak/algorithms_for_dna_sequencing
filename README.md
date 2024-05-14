@@ -18,4 +18,4 @@ Throughout the development of these algorithms, the following skills were acquir
 - Dynamic Programming: Utilizing dynamic programming approaches, such as in the edit distance algorithm, to solve complex sequence analysis problems optimally.
 - Optimization Techniques: Employing optimization techniques to improve the efficiency and performance of algorithms, essential for handling large-scale genomic datasets.
 
-Feel free to explore the [code](algorithms_for_dna_sequencing/Algorithms_for_DNA_Sequencing.ipynb) within this repository to gain a deeper understanding of these fundamental DNA sequencing algorithms and their applications in bioinformatics. If you have any remarks, please feel free to reach out. Always happy to chat about coding!
+Feel free to explore the [code](Algorithms_for_DNA_Sequencing.ipynb) within this repository to gain a deeper understanding of these fundamental DNA sequencing algorithms and their applications in bioinformatics. If you have any remarks, please feel free to reach out. Always happy to chat about coding!
