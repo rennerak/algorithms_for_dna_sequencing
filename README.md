@@ -17,5 +17,5 @@ Throughout the development of these algorithms, the following skills were acquir
 - Sequence Alignment: Learning methods to align DNA sequences, which is crucial for comparing genomes and identifying similarities or differences.
 - Dynamic Programming: Utilizing dynamic programming approaches, such as in the edit distance algorithm, to solve complex sequence analysis problems optimally.
 - Optimization Techniques: Employing optimization techniques to improve the efficiency and performance of algorithms, essential for handling large-scale genomic datasets.
-- 
+
 Feel free to explore the code within this repository to gain a deeper understanding of these fundamental DNA sequencing algorithms and their applications in bioinformatics. If you have any remarks, please feel free to reach out. Always happy to chat about coding!
