@@ -1,5 +1,5 @@
 # DNA Sequencing Algorithms
-Welcome to the repository for DNA sequencing algorithms! This collection of algorithms was developed as a programming assignment for the course "Algorithms for DNA Sequencing" offered by Johns Hopkins University on [Coursera] (https://www.coursera.org/learn/dna-sequencing).
+Welcome to the repository for DNA sequencing algorithms! This collection of algorithms was developed as a programming assignment for the course "Algorithms for DNA Sequencing" offered by Johns Hopkins University on [Coursera](https://www.coursera.org/learn/dna-sequencing).
 
 ## Overview
 In this repository, you will find implementations of various algorithms commonly used in DNA sequencing analysis. These algorithms play a crucial role in bioinformatics and genomics, aiding researchers in tasks such as sequence alignment, pattern matching, and identifying genetic variations.
